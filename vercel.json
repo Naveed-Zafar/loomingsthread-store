@@ -1,11 +1,8 @@
 {
-  "version": 2,
   "rewrites": [
-    { "source": "/products/:path*", "destination": "/public/products/:path*" },
-    { "source": "/banners/:path*", "destination": "/public/banners/:path*" },
-    { "source": "/videos/:path*", "destination": "/public/videos/:path*" },
-    { "source": "/logo/:path*", "destination": "/public/logo/:path*" },
-    { "source": "/data/:path*", "destination": "/data/:path*" },
-    { "source": "/(.*)", "destination": "/index.html" }
+    {
+      "source": "/(.*)",
+      "destination": "/index.html"
+    }
   ]
 }

@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "node server.js",
+  "start": "node server.js",
+  "build": "mkdir public-build && copy index.html public-build\\index.html && copy app.js public-build\\app.js && copy styles.css public-build\\styles.css && xcopy data public-build\\data /E /I /Y && xcopy public public-build /E /I /Y"
+}
     "import": "node scripts/crawl-hjleather.js",
     "import:products": "node scripts/import-products.js",
     "download:images": "node scripts/download-images.js",
