@@ -4,9 +4,7 @@
   "private": true,
   "scripts": {
     "start": "node server.js",
-
-    "build": "mkdir -p public-build && cp index.html public-build/index.html && cp app.js public-build/app.js && cp styles.css public-build/styles.css && cp -r data public-build/data && cp -r public/* public-build/"
-
+    "build": "mkdir -p public-build && cp index.html public-build/index.html && cp app.js public-build/app.js && cp styles.css public-build/styles.css && cp -r data public-build/data && cp -r public/* public-build/",
     "import": "node scripts/crawl-hjleather.js",
     "import:products": "node scripts/import-products.js",
     "download:images": "node scripts/download-images.js",
