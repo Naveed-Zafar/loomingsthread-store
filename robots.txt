@@ -1,0 +1,7 @@
+﻿User-agent: *
+Allow: /
+
+# Google Search Console placeholder: add the live verified domain after launch.
+# Google Analytics placeholder: G-XXXXXXXXXX
+# Google Tag Manager placeholder: GTM-XXXXXXX
+Sitemap: http://localhost:4183/sitemap.xml

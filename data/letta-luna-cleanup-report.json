@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-06-05T20:16:00.883Z",
+  "productsCleaned": 136,
+  "productsActive": 131,
+  "productsDeactivated": 5,
+  "productsRequiringManualReview": [
+    {
+      "articleNumber": "LL-0023",
+      "title": "Kids Colorful Clothing Rail Set",
+      "slug": "ll-kids-colorful-clothing-rail"
+    },
+    {
+      "articleNumber": "LL-0047",
+      "title": "Boys Green Hero Tracksuit Set",
+      "slug": "ll-boys-green-hero-tracksuit"
+    },
+    {
+      "articleNumber": "LL-0049",
+      "title": "Baby Red Tank Shorts Set",
+      "slug": "ll-baby-red-tank-shorts-set"
+    },
+    {
+      "articleNumber": "LL-0054",
+      "title": "Girls Pink Hoodie",
+      "slug": "ll-girls-pink-hoodie"
+    },
+    {
+      "articleNumber": "LL-0070",
+      "title": "Kids Beige Logo Tracksuit Set",
+      "slug": "ll-kids-beige-logo-tracksuit"
+    }
+  ],
+  "pricingStructureApplied": {
+    "babyItems": "Base kidswear price minus 2 EUR",
+    "toddlerItems": "Base kidswear price plus 1 EUR",
+    "boysGirlsItems": "Base kidswear price plus 2 EUR",
+    "setsJacketsVests": "Category premium plus 5 EUR",
+    "winterItems": "Season premium plus 3 EUR",
+    "summerItems": "Season lightwear adjustment minus 1 EUR"
+  },
+  "collections": [
+    "Baby",
+    "Toddler",
+    "Girls",
+    "Boys",
+    "Summer",
+    "Winter",
+    "New Arrivals"
+  ]
+}

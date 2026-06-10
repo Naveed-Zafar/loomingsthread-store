@@ -1,0 +1,15 @@
+{
+  "generatedAt": "2026-06-04T22:07:40.826Z",
+  "totalProducts": 192,
+  "totalImagesDownloaded": 676,
+  "productsWithMultipleImages": 192,
+  "productsWithOnlyOneImage": 0,
+  "failedDownloads": 0,
+  "failedImageDownloads": 0,
+  "blockedPages": 0,
+  "missingDescriptions": 0,
+  "missingDimensions": 192,
+  "missingMaterials": 0,
+  "productsNeedingManualReview": 192,
+  "productsNeedingGalleryReview": 0
+}

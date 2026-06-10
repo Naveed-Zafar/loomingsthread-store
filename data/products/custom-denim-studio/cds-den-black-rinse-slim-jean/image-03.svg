@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1500" viewBox="0 0 1200 1500">
+  <rect width="1200" height="1500" fill="#f7f2ec"/>
+  <rect x="96" y="110" width="1008" height="1280" rx="18" fill="#fffaf4" stroke="#c69a63" stroke-width="4"/>
+  <rect x="168" y="210" width="864" height="840" rx="28" fill="#1d3658" opacity="0.96"/>
+  <path d="M360 344h480l88 178-90 48-58-86v480H420V484l-58 86-90-48 88-178z" fill="#fffaf4" opacity="0.88"/>
+  <path d="M430 486h340" stroke="#c69a63" stroke-width="18" stroke-linecap="round"/>
+  <path d="M430 572h340" stroke="#c69a63" stroke-width="10" stroke-linecap="round" opacity="0.72"/>
+  <circle cx="600" cy="790" r="116" fill="#c69a63" opacity="0.22"/>
+  <text x="600" y="1165" text-anchor="middle" font-family="Georgia, serif" font-size="54" fill="#201812">Black Rinse Slim Jean</text>
+  <text x="600" y="1240" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" letter-spacing="5" fill="#6b5b50">Custom Denim Studio / Styling</text>
+  <text x="600" y="1302" text-anchor="middle" font-family="Arial, sans-serif" font-size="24" fill="#8a796d">styling view</text>
+</svg>

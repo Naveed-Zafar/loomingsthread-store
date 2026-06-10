@@ -1,0 +1,3017 @@
+{
+  "generatedAt": "2026-06-08T10:00:31.151Z",
+  "requiredViews": [
+    "front",
+    "back",
+    "side",
+    "detail",
+    "lifestyle"
+  ],
+  "total": 120,
+  "byBrand": {
+    "Custom Denim Studio": 40,
+    "LoomingsThread Apparel": 80
+  },
+  "products": [
+    {
+      "productId": "cds-archive-straight-jean",
+      "articleNumber": "CDS-JEA-0001",
+      "product": "Archive Straight Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-archive-straight-jean/"
+    },
+    {
+      "productId": "cds-selvedge-slim-jean",
+      "articleNumber": "CDS-JEA-0002",
+      "product": "Selvedge Slim Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-selvedge-slim-jean/"
+    },
+    {
+      "productId": "cds-relaxed-taper-jean",
+      "articleNumber": "CDS-JEA-0003",
+      "product": "Relaxed Taper Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-relaxed-taper-jean/"
+    },
+    {
+      "productId": "cds-urban-carpenter-jean",
+      "articleNumber": "CDS-JEA-0004",
+      "product": "Urban Carpenter Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-urban-carpenter-jean/"
+    },
+    {
+      "productId": "cds-black-rinse-slim-jean",
+      "articleNumber": "CDS-JEA-0005",
+      "product": "Black Rinse Slim Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-black-rinse-slim-jean/"
+    },
+    {
+      "productId": "cds-travel-stretch-jean",
+      "articleNumber": "CDS-JEA-0006",
+      "product": "Travel Stretch Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-travel-stretch-jean/"
+    },
+    {
+      "productId": "cds-worker-straight-jean",
+      "articleNumber": "CDS-JEA-0007",
+      "product": "Worker Straight Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-worker-straight-jean/"
+    },
+    {
+      "productId": "cds-five-pocket-raw-jean",
+      "articleNumber": "CDS-JEA-0008",
+      "product": "Five Pocket Raw Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-five-pocket-raw-jean/"
+    },
+    {
+      "productId": "cds-ecru-slim-jean",
+      "articleNumber": "CDS-JEA-0009",
+      "product": "Ecru Slim Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-ecru-slim-jean/"
+    },
+    {
+      "productId": "cds-heritage-blue-trucker-jean",
+      "articleNumber": "CDS-JEA-0010",
+      "product": "Heritage Blue Trucker Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-heritage-blue-trucker-jean/"
+    },
+    {
+      "productId": "cds-high-rise-straight-jean",
+      "articleNumber": "CDS-JEA-0011",
+      "product": "High Rise Straight Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-high-rise-straight-jean/"
+    },
+    {
+      "productId": "cds-cropped-barrel-jean",
+      "articleNumber": "CDS-JEA-0012",
+      "product": "Cropped Barrel Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-cropped-barrel-jean/"
+    },
+    {
+      "productId": "cds-pleated-denim-trouser-jean",
+      "articleNumber": "CDS-JEA-0013",
+      "product": "Pleated Denim Trouser Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-pleated-denim-trouser-jean/"
+    },
+    {
+      "productId": "cds-high-rise-wide-jean",
+      "articleNumber": "CDS-JEA-0014",
+      "product": "High Rise Wide Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-high-rise-wide-jean/"
+    },
+    {
+      "productId": "cds-soft-flare-jean",
+      "articleNumber": "CDS-JEA-0015",
+      "product": "Soft Flare Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-soft-flare-jean/"
+    },
+    {
+      "productId": "cds-relaxed-white-denim-jean",
+      "articleNumber": "CDS-JEA-0016",
+      "product": "Relaxed White Denim Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-relaxed-white-denim-jean/"
+    },
+    {
+      "productId": "cds-washed-indigo-utility-jean",
+      "articleNumber": "CDS-JEA-0017",
+      "product": "Washed Indigo Utility Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-washed-indigo-utility-jean/"
+    },
+    {
+      "productId": "cds-clean-black-wide-jean",
+      "articleNumber": "CDS-JEA-0018",
+      "product": "Clean Black Wide Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-clean-black-wide-jean/"
+    },
+    {
+      "productId": "cds-vintage-blue-straight-jean",
+      "articleNumber": "CDS-JEA-0019",
+      "product": "Vintage Blue Straight Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-vintage-blue-straight-jean/"
+    },
+    {
+      "productId": "cds-ink-blue-tailored-jean",
+      "articleNumber": "CDS-JEA-0020",
+      "product": "Ink Blue Tailored Jean",
+      "brand": "Custom Denim Studio",
+      "category": "Jeans",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-ink-blue-tailored-jean/"
+    },
+    {
+      "productId": "cds-vintage-wash-denim-jacket",
+      "articleNumber": "CDS-DEN-0021",
+      "product": "Vintage Wash Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-vintage-wash-denim-jacket/"
+    },
+    {
+      "productId": "cds-raw-denim-trucker-jacket",
+      "articleNumber": "CDS-DEN-0022",
+      "product": "Raw Denim Trucker Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-raw-denim-trucker-jacket/"
+    },
+    {
+      "productId": "cds-ecru-chore-denim-jacket",
+      "articleNumber": "CDS-DEN-0023",
+      "product": "Ecru Chore Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-ecru-chore-denim-jacket/"
+    },
+    {
+      "productId": "cds-indigo-field-denim-jacket",
+      "articleNumber": "CDS-DEN-0024",
+      "product": "Indigo Field Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-indigo-field-denim-jacket/"
+    },
+    {
+      "productId": "cds-tailored-denim-blazer-jacket",
+      "articleNumber": "CDS-DEN-0025",
+      "product": "Tailored Denim Blazer Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-tailored-denim-blazer-jacket/"
+    },
+    {
+      "productId": "cds-denim-coach-jacket",
+      "articleNumber": "CDS-DEN-0026",
+      "product": "Denim Coach Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-denim-coach-jacket/"
+    },
+    {
+      "productId": "cds-longline-denim-coat-jacket",
+      "articleNumber": "CDS-DEN-0027",
+      "product": "Longline Denim Coat Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-longline-denim-coat-jacket/"
+    },
+    {
+      "productId": "cds-clean-black-denim-jacket",
+      "articleNumber": "CDS-DEN-0028",
+      "product": "Clean Black Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-clean-black-denim-jacket/"
+    },
+    {
+      "productId": "cds-patch-pocket-denim-vest-jacket",
+      "articleNumber": "CDS-DEN-0029",
+      "product": "Patch Pocket Denim Vest Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-patch-pocket-denim-vest-jacket/"
+    },
+    {
+      "productId": "cds-industrial-zip-denim-jacket",
+      "articleNumber": "CDS-DEN-0030",
+      "product": "Industrial Zip Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Jackets",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-industrial-zip-denim-jacket/"
+    },
+    {
+      "productId": "cds-utility-denim-shirt",
+      "articleNumber": "CDS-DEN-0031",
+      "product": "Utility Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-utility-denim-shirt/"
+    },
+    {
+      "productId": "cds-raw-denim-overshirt",
+      "articleNumber": "CDS-DEN-0032",
+      "product": "Raw Denim Overshirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-raw-denim-overshirt/"
+    },
+    {
+      "productId": "cds-soft-denim-shirt-dress",
+      "articleNumber": "CDS-DEN-0033",
+      "product": "Soft Denim Shirt Dress",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-soft-denim-shirt-dress/"
+    },
+    {
+      "productId": "cds-indigo-popover-denim-shirt",
+      "articleNumber": "CDS-DEN-0034",
+      "product": "Indigo Popover Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-indigo-popover-denim-shirt/"
+    },
+    {
+      "productId": "cds-structured-denim-overshirt",
+      "articleNumber": "CDS-DEN-0035",
+      "product": "Structured Denim Overshirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-structured-denim-overshirt/"
+    },
+    {
+      "productId": "cds-weekend-denim-overshirt",
+      "articleNumber": "CDS-DEN-0036",
+      "product": "Weekend Denim Overshirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-weekend-denim-overshirt/"
+    },
+    {
+      "productId": "cds-cotton-denim-field-shirt",
+      "articleNumber": "CDS-DEN-0037",
+      "product": "Cotton Denim Field Shirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-cotton-denim-field-shirt/"
+    },
+    {
+      "productId": "cds-washed-western-denim-shirt",
+      "articleNumber": "CDS-DEN-0038",
+      "product": "Washed Western Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-washed-western-denim-shirt/"
+    },
+    {
+      "productId": "cds-cropped-denim-shirt",
+      "articleNumber": "CDS-DEN-0039",
+      "product": "Cropped Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-cropped-denim-shirt/"
+    },
+    {
+      "productId": "cds-minimal-denim-shirt-jacket",
+      "articleNumber": "CDS-DEN-0040",
+      "product": "Minimal Denim Shirt Jacket",
+      "brand": "Custom Denim Studio",
+      "category": "Denim Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/custom-denim-studio/cds-minimal-denim-shirt-jacket/"
+    },
+    {
+      "productId": "lta-brushed-fleece-hoodie",
+      "articleNumber": "LTA-HOO-0001",
+      "product": "Brushed Fleece Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-brushed-fleece-hoodie/"
+    },
+    {
+      "productId": "lta-premium-zip-hoodie",
+      "articleNumber": "LTA-HOO-0002",
+      "product": "Premium Zip Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-premium-zip-hoodie/"
+    },
+    {
+      "productId": "lta-boxy-studio-hoodie",
+      "articleNumber": "LTA-HOO-0003",
+      "product": "Boxy Studio Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-boxy-studio-hoodie/"
+    },
+    {
+      "productId": "lta-travel-tech-hoodie",
+      "articleNumber": "LTA-HOO-0004",
+      "product": "Travel Tech Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-travel-tech-hoodie/"
+    },
+    {
+      "productId": "lta-heavyweight-loopback-hoodie",
+      "articleNumber": "LTA-HOO-0005",
+      "product": "Heavyweight Loopback Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-heavyweight-loopback-hoodie/"
+    },
+    {
+      "productId": "lta-minimal-logo-hoodie",
+      "articleNumber": "LTA-HOO-0006",
+      "product": "Minimal Logo Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-minimal-logo-hoodie/"
+    },
+    {
+      "productId": "lta-relaxed-sunday-hoodie",
+      "articleNumber": "LTA-HOO-0007",
+      "product": "Relaxed Sunday Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-relaxed-sunday-hoodie/"
+    },
+    {
+      "productId": "lta-clean-rib-hem-hoodie",
+      "articleNumber": "LTA-HOO-0008",
+      "product": "Clean Rib Hem Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-clean-rib-hem-hoodie/"
+    },
+    {
+      "productId": "lta-soft-modal-hoodie",
+      "articleNumber": "LTA-HOO-0009",
+      "product": "Soft Modal Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-modal-hoodie/"
+    },
+    {
+      "productId": "lta-urban-layer-hoodie",
+      "articleNumber": "LTA-HOO-0010",
+      "product": "Urban Layer Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-urban-layer-hoodie/"
+    },
+    {
+      "productId": "lta-compact-cotton-hoodie",
+      "articleNumber": "LTA-HOO-0011",
+      "product": "Compact Cotton Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-compact-cotton-hoodie/"
+    },
+    {
+      "productId": "lta-double-face-hoodie",
+      "articleNumber": "LTA-HOO-0012",
+      "product": "Double Face Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-double-face-hoodie/"
+    },
+    {
+      "productId": "lta-essential-oversized-hoodie",
+      "articleNumber": "LTA-HOO-0013",
+      "product": "Essential Oversized Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-essential-oversized-hoodie/"
+    },
+    {
+      "productId": "lta-warm-core-hoodie",
+      "articleNumber": "LTA-HOO-0014",
+      "product": "Warm Core Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-warm-core-hoodie/"
+    },
+    {
+      "productId": "lta-modern-drawcord-hoodie",
+      "articleNumber": "LTA-HOO-0015",
+      "product": "Modern Drawcord Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-modern-drawcord-hoodie/"
+    },
+    {
+      "productId": "lta-quiet-luxury-hoodie",
+      "articleNumber": "LTA-HOO-0016",
+      "product": "Quiet Luxury Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-quiet-luxury-hoodie/"
+    },
+    {
+      "productId": "lta-interlock-jersey-hoodie",
+      "articleNumber": "LTA-HOO-0017",
+      "product": "Interlock Jersey Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-interlock-jersey-hoodie/"
+    },
+    {
+      "productId": "lta-washed-cotton-hoodie",
+      "articleNumber": "LTA-HOO-0018",
+      "product": "Washed Cotton Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-washed-cotton-hoodie/"
+    },
+    {
+      "productId": "lta-athletic-rib-hoodie",
+      "articleNumber": "LTA-HOO-0019",
+      "product": "Athletic Rib Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-athletic-rib-hoodie/"
+    },
+    {
+      "productId": "lta-signature-capsule-hoodie",
+      "articleNumber": "LTA-HOO-0020",
+      "product": "Signature Capsule Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "category": "Hoodies",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-signature-capsule-hoodie/"
+    },
+    {
+      "productId": "lta-relaxed-fleece-sweatshirt",
+      "articleNumber": "LTA-SWE-0021",
+      "product": "Relaxed Fleece Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-relaxed-fleece-sweatshirt/"
+    },
+    {
+      "productId": "lta-quiet-logo-sweatshirt",
+      "articleNumber": "LTA-SWE-0022",
+      "product": "Quiet Logo Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-quiet-logo-sweatshirt/"
+    },
+    {
+      "productId": "lta-structured-milano-sweatshirt",
+      "articleNumber": "LTA-SWE-0023",
+      "product": "Structured Milano Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-structured-milano-sweatshirt/"
+    },
+    {
+      "productId": "lta-soft-crew-sweatshirt",
+      "articleNumber": "LTA-SWE-0024",
+      "product": "Soft Crew Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-crew-sweatshirt/"
+    },
+    {
+      "productId": "lta-compact-rib-sweatshirt",
+      "articleNumber": "LTA-SWE-0025",
+      "product": "Compact Rib Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-compact-rib-sweatshirt/"
+    },
+    {
+      "productId": "lta-heavy-cotton-sweatshirt",
+      "articleNumber": "LTA-SWE-0026",
+      "product": "Heavy Cotton Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-heavy-cotton-sweatshirt/"
+    },
+    {
+      "productId": "lta-minimal-studio-sweatshirt",
+      "articleNumber": "LTA-SWE-0027",
+      "product": "Minimal Studio Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-minimal-studio-sweatshirt/"
+    },
+    {
+      "productId": "lta-travel-crew-sweatshirt",
+      "articleNumber": "LTA-SWE-0028",
+      "product": "Travel Crew Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-travel-crew-sweatshirt/"
+    },
+    {
+      "productId": "lta-everyday-loopback-sweatshirt",
+      "articleNumber": "LTA-SWE-0029",
+      "product": "Everyday Loopback Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-everyday-loopback-sweatshirt/"
+    },
+    {
+      "productId": "lta-boxy-crop-sweatshirt",
+      "articleNumber": "LTA-SWE-0030",
+      "product": "Boxy Crop Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-boxy-crop-sweatshirt/"
+    },
+    {
+      "productId": "lta-refined-raglan-sweatshirt",
+      "articleNumber": "LTA-SWE-0031",
+      "product": "Refined Raglan Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-refined-raglan-sweatshirt/"
+    },
+    {
+      "productId": "lta-clean-athletic-sweatshirt",
+      "articleNumber": "LTA-SWE-0032",
+      "product": "Clean Athletic Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-clean-athletic-sweatshirt/"
+    },
+    {
+      "productId": "lta-warm-brushed-sweatshirt",
+      "articleNumber": "LTA-SWE-0033",
+      "product": "Warm Brushed Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-warm-brushed-sweatshirt/"
+    },
+    {
+      "productId": "lta-premium-jersey-sweatshirt",
+      "articleNumber": "LTA-SWE-0034",
+      "product": "Premium Jersey Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-premium-jersey-sweatshirt/"
+    },
+    {
+      "productId": "lta-modern-mock-neck-sweatshirt",
+      "articleNumber": "LTA-SWE-0035",
+      "product": "Modern Mock Neck Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-modern-mock-neck-sweatshirt/"
+    },
+    {
+      "productId": "lta-signature-crew-sweatshirt",
+      "articleNumber": "LTA-SWE-0036",
+      "product": "Signature Crew Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-signature-crew-sweatshirt/"
+    },
+    {
+      "productId": "lta-washed-black-sweatshirt",
+      "articleNumber": "LTA-SWE-0037",
+      "product": "Washed Black Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-washed-black-sweatshirt/"
+    },
+    {
+      "productId": "lta-layering-sweatshirt",
+      "articleNumber": "LTA-SWE-0038",
+      "product": "Layering Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-layering-sweatshirt/"
+    },
+    {
+      "productId": "lta-soft-volume-sweatshirt",
+      "articleNumber": "LTA-SWE-0039",
+      "product": "Soft Volume Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-volume-sweatshirt/"
+    },
+    {
+      "productId": "lta-capsule-sweatshirt",
+      "articleNumber": "LTA-SWE-0040",
+      "product": "Capsule Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Sweatshirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-capsule-sweatshirt/"
+    },
+    {
+      "productId": "lta-compact-cotton-t-shirt",
+      "articleNumber": "LTA-TSH-0041",
+      "product": "Compact Cotton T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-compact-cotton-t-shirt/"
+    },
+    {
+      "productId": "lta-premium-heavyweight-t-shirt",
+      "articleNumber": "LTA-TSH-0042",
+      "product": "Premium Heavyweight T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-premium-heavyweight-t-shirt/"
+    },
+    {
+      "productId": "lta-essential-long-sleeve-t-shirt",
+      "articleNumber": "LTA-TSH-0043",
+      "product": "Essential Long Sleeve T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-essential-long-sleeve-t-shirt/"
+    },
+    {
+      "productId": "lta-mercerized-jersey-t-shirt",
+      "articleNumber": "LTA-TSH-0044",
+      "product": "Mercerized Jersey T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-mercerized-jersey-t-shirt/"
+    },
+    {
+      "productId": "lta-relaxed-crew-t-shirt",
+      "articleNumber": "LTA-TSH-0045",
+      "product": "Relaxed Crew T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-relaxed-crew-t-shirt/"
+    },
+    {
+      "productId": "lta-fine-rib-t-shirt",
+      "articleNumber": "LTA-TSH-0046",
+      "product": "Fine Rib T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-fine-rib-t-shirt/"
+    },
+    {
+      "productId": "lta-washed-cotton-t-shirt",
+      "articleNumber": "LTA-TSH-0047",
+      "product": "Washed Cotton T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-washed-cotton-t-shirt/"
+    },
+    {
+      "productId": "lta-clean-v-neck-t-shirt",
+      "articleNumber": "LTA-TSH-0048",
+      "product": "Clean V-Neck T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-clean-v-neck-t-shirt/"
+    },
+    {
+      "productId": "lta-soft-modal-t-shirt",
+      "articleNumber": "LTA-TSH-0049",
+      "product": "Soft Modal T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-modal-t-shirt/"
+    },
+    {
+      "productId": "lta-boxy-studio-t-shirt",
+      "articleNumber": "LTA-TSH-0050",
+      "product": "Boxy Studio T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-boxy-studio-t-shirt/"
+    },
+    {
+      "productId": "lta-travel-jersey-t-shirt",
+      "articleNumber": "LTA-TSH-0051",
+      "product": "Travel Jersey T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-travel-jersey-t-shirt/"
+    },
+    {
+      "productId": "lta-minimal-stripe-t-shirt",
+      "articleNumber": "LTA-TSH-0052",
+      "product": "Minimal Stripe T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-minimal-stripe-t-shirt/"
+    },
+    {
+      "productId": "lta-tailored-fit-t-shirt",
+      "articleNumber": "LTA-TSH-0053",
+      "product": "Tailored Fit T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-tailored-fit-t-shirt/"
+    },
+    {
+      "productId": "lta-organic-touch-t-shirt",
+      "articleNumber": "LTA-TSH-0054",
+      "product": "Organic Touch T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-organic-touch-t-shirt/"
+    },
+    {
+      "productId": "lta-compact-pocket-t-shirt",
+      "articleNumber": "LTA-TSH-0055",
+      "product": "Compact Pocket T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-compact-pocket-t-shirt/"
+    },
+    {
+      "productId": "lta-refined-pique-t-shirt",
+      "articleNumber": "LTA-TSH-0056",
+      "product": "Refined Pique T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-refined-pique-t-shirt/"
+    },
+    {
+      "productId": "lta-layering-long-sleeve-t-shirt",
+      "articleNumber": "LTA-TSH-0057",
+      "product": "Layering Long Sleeve T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-layering-long-sleeve-t-shirt/"
+    },
+    {
+      "productId": "lta-airy-summer-t-shirt",
+      "articleNumber": "LTA-TSH-0058",
+      "product": "Airy Summer T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-airy-summer-t-shirt/"
+    },
+    {
+      "productId": "lta-structured-cotton-t-shirt",
+      "articleNumber": "LTA-TSH-0059",
+      "product": "Structured Cotton T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-structured-cotton-t-shirt/"
+    },
+    {
+      "productId": "lta-signature-capsule-t-shirt",
+      "articleNumber": "LTA-TSH-0060",
+      "product": "Signature Capsule T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "T-Shirts",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-signature-capsule-t-shirt/"
+    },
+    {
+      "productId": "lta-tailored-jersey-blazer",
+      "articleNumber": "LTA-WOM-0061",
+      "product": "Tailored Jersey Blazer",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-tailored-jersey-blazer/"
+    },
+    {
+      "productId": "lta-soft-rib-tank",
+      "articleNumber": "LTA-WOM-0062",
+      "product": "Soft Rib Tank",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-rib-tank/"
+    },
+    {
+      "productId": "lta-oversized-oxford-shirt",
+      "articleNumber": "LTA-WOM-0063",
+      "product": "Oversized Oxford Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-oversized-oxford-shirt/"
+    },
+    {
+      "productId": "lta-wide-leg-tailored-trouser",
+      "articleNumber": "LTA-WOM-0064",
+      "product": "Wide Leg Tailored Trouser",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-wide-leg-tailored-trouser/"
+    },
+    {
+      "productId": "lta-cotton-cashmere-cardigan",
+      "articleNumber": "LTA-WOM-0065",
+      "product": "Cotton Cashmere Cardigan",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-cotton-cashmere-cardigan/"
+    },
+    {
+      "productId": "lta-soft-modal-top",
+      "articleNumber": "LTA-WOM-0066",
+      "product": "Soft Modal Top",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-modal-top/"
+    },
+    {
+      "productId": "lta-pleated-midi-skirt",
+      "articleNumber": "LTA-WOM-0067",
+      "product": "Pleated Midi Skirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-pleated-midi-skirt/"
+    },
+    {
+      "productId": "lta-fluid-satin-shirt",
+      "articleNumber": "LTA-WOM-0068",
+      "product": "Fluid Satin Shirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-fluid-satin-shirt/"
+    },
+    {
+      "productId": "lta-compact-knit-dress",
+      "articleNumber": "LTA-WOM-0069",
+      "product": "Compact Knit Dress",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-compact-knit-dress/"
+    },
+    {
+      "productId": "lta-tailored-bermuda-short",
+      "articleNumber": "LTA-WOM-0070",
+      "product": "Tailored Bermuda Short",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-tailored-bermuda-short/"
+    },
+    {
+      "productId": "lta-soft-column-dress",
+      "articleNumber": "LTA-WOM-0071",
+      "product": "Soft Column Dress",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-column-dress/"
+    },
+    {
+      "productId": "lta-soft-wide-sweatpant",
+      "articleNumber": "LTA-WOM-0072",
+      "product": "Soft Wide Sweatpant",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-soft-wide-sweatpant/"
+    },
+    {
+      "productId": "lta-draped-jersey-blouse",
+      "articleNumber": "LTA-WOM-0073",
+      "product": "Draped Jersey Blouse",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-draped-jersey-blouse/"
+    },
+    {
+      "productId": "lta-minimal-travel-parka",
+      "articleNumber": "LTA-WOM-0074",
+      "product": "Minimal Travel Parka",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-minimal-travel-parka/"
+    },
+    {
+      "productId": "lta-ribbed-merino-turtleneck",
+      "articleNumber": "LTA-WOM-0075",
+      "product": "Ribbed Merino Turtleneck",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-ribbed-merino-turtleneck/"
+    },
+    {
+      "productId": "lta-tailored-utility-vest",
+      "articleNumber": "LTA-WOM-0076",
+      "product": "Tailored Utility Vest",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-tailored-utility-vest/"
+    },
+    {
+      "productId": "lta-fine-gauge-knit-polo",
+      "articleNumber": "LTA-WOM-0077",
+      "product": "Fine Gauge Knit Polo",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-fine-gauge-knit-polo/"
+    },
+    {
+      "productId": "lta-double-face-zip-jacket",
+      "articleNumber": "LTA-WOM-0078",
+      "product": "Double Face Zip Jacket",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-double-face-zip-jacket/"
+    },
+    {
+      "productId": "lta-linen-blend-overshirt",
+      "articleNumber": "LTA-WOM-0079",
+      "product": "Linen Blend Overshirt",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-linen-blend-overshirt/"
+    },
+    {
+      "productId": "lta-signature-capsule-set",
+      "articleNumber": "LTA-WOM-0080",
+      "product": "Signature Capsule Set",
+      "brand": "LoomingsThread Apparel",
+      "category": "Women's Collection",
+      "requiredViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "missingViews": [
+        "front",
+        "back",
+        "side",
+        "detail",
+        "lifestyle"
+      ],
+      "imageStatus": "queued",
+      "imageQuality": "needs-regeneration",
+      "readyForGeneration": true,
+      "outputFolder": "/products/loomingsthread-apparel/lta-signature-capsule-set/"
+    }
+  ]
+}

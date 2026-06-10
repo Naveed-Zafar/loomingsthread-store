@@ -1,0 +1,27 @@
+{
+  "generatedAt": "2026-06-05T21:12:23.512Z",
+  "totalProducts": 448,
+  "preservedLeatherAtelierProducts": 192,
+  "preservedLettaLunaProducts": 136,
+  "customDenimStudioProducts": 40,
+  "customDenimStructure": {
+    "jeans": 20,
+    "denimJackets": 10,
+    "denimShirts": 10
+  },
+  "loomingsthreadApparelProducts": 80,
+  "apparelStructure": {
+    "hoodies": 20,
+    "sweatshirts": 20,
+    "tShirts": 20,
+    "womensApparel": 20
+  },
+  "galleryPlaceholderImages": 600,
+  "imageSlots": [
+    "hero",
+    "front",
+    "back",
+    "detail",
+    "lifestyle"
+  ]
+}

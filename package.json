@@ -1,0 +1,13 @@
+{
+  "name": "the-leather-atelier",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "import": "node scripts/crawl-hjleather.js",
+    "import:products": "node scripts/import-products.js",
+    "download:images": "node scripts/download-images.js",
+    "build:image-manifest": "node scripts/build-image-manifest.js",
+    "prepare:image-production": "node scripts/prepare-image-production.js"
+  }
+}

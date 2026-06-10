@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title">
+  <title id="title">Letta and Luna</title>
+  <circle cx="90" cy="90" r="68" fill="#f3d9cf"/>
+  <path d="M105 47a47 47 0 1 0 0 86 52 52 0 1 1 0-86z" fill="#8d5a55"/>
+  <circle cx="53" cy="51" r="5" fill="#d49b87"/>
+  <circle cx="126" cy="122" r="4" fill="#d49b87"/>
+  <text x="205" y="105" fill="#4a2d2a" font-family="Georgia,serif" font-size="61">Letta &amp; Luna</text>
+  <text x="210" y="140" fill="#8d5a55" font-family="Arial,sans-serif" font-size="15" letter-spacing="5">LITTLE MOMENTS, BEAUTIFULLY MADE</text>
+</svg>

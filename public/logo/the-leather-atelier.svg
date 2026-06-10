@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title">
+  <title id="title">The Leather Atelier</title>
+  <circle cx="90" cy="90" r="69" fill="#241711"/>
+  <path d="M53 65h74M90 65v64M64 92h52" fill="none" stroke="#c7935f" stroke-width="5"/>
+  <text x="205" y="70" fill="#8b4b24" font-family="Arial,sans-serif" font-size="15" letter-spacing="6">THE</text>
+  <text x="205" y="116" fill="#241711" font-family="Georgia,serif" font-size="48">Leather Atelier</text>
+  <text x="208" y="145" fill="#6d625a" font-family="Arial,sans-serif" font-size="14" letter-spacing="4">BY LOOMING THREADS</text>
+</svg>

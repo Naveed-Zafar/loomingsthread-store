@@ -1,0 +1,971 @@
+{
+  "source": "C:\\Users\\R2G\\OneDrive\\Desktop\\Pictures for canva to seperate.png",
+  "sourceSize": {
+    "width": 1536,
+    "height": 1024
+  },
+  "productsCreated": 73,
+  "frontImagesCreated": 73,
+  "detailImagesCreated": 73,
+  "totalImagesCreated": 146,
+  "productsNeedingGalleryReview": 73,
+  "missingAuthenticViews": [
+    "back",
+    "left-side",
+    "right-side",
+    "product-specific lifestyle",
+    "category-specific closeups"
+  ],
+  "note": "The source board contains front-facing product tiles only. Missing views were not fabricated or duplicated.",
+  "products": [
+    {
+      "articleNumber": "CDS-BRD-0001",
+      "name": "Slim Fit Indigo",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/slim-fit-indigo/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/slim-fit-indigo/detail.webp",
+      "crop": [
+        264,
+        29,
+        335,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0002",
+      "name": "Straight Fit Vintage",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/straight-fit-vintage/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/straight-fit-vintage/detail.webp",
+      "crop": [
+        349,
+        29,
+        420,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0003",
+      "name": "Relaxed Fit Light Blue",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/relaxed-fit-light-blue/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/relaxed-fit-light-blue/detail.webp",
+      "crop": [
+        434,
+        29,
+        505,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0004",
+      "name": "Black Denim",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/black-denim/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/black-denim/detail.webp",
+      "crop": [
+        519,
+        29,
+        591,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0005",
+      "name": "Raw Selvedge",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/raw-selvedge/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/raw-selvedge/detail.webp",
+      "crop": [
+        605,
+        29,
+        676,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0006",
+      "name": "Classic Trucker Jacket",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/classic-trucker-jacket/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/classic-trucker-jacket/detail.webp",
+      "crop": [
+        690,
+        29,
+        761,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0007",
+      "name": "Vintage Blue Jacket",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/vintage-blue-jacket/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/vintage-blue-jacket/detail.webp",
+      "crop": [
+        775,
+        29,
+        846,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0008",
+      "name": "Black Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/black-denim-jacket/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/black-denim-jacket/detail.webp",
+      "crop": [
+        860,
+        29,
+        931,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0009",
+      "name": "Oversized Denim Jacket",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/oversized-denim-jacket/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/oversized-denim-jacket/detail.webp",
+      "crop": [
+        945,
+        29,
+        1016,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0010",
+      "name": "Sherpa Lined Jacket",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/sherpa-lined-jacket/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/sherpa-lined-jacket/detail.webp",
+      "crop": [
+        1030,
+        29,
+        1101,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0011",
+      "name": "Indigo Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/indigo-denim-shirt/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/indigo-denim-shirt/detail.webp",
+      "crop": [
+        1115,
+        29,
+        1186,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0012",
+      "name": "Light Wash Shirt",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/light-wash-shirt/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/light-wash-shirt/detail.webp",
+      "crop": [
+        1200,
+        29,
+        1272,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0013",
+      "name": "Western Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/western-denim-shirt/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/western-denim-shirt/detail.webp",
+      "crop": [
+        1286,
+        29,
+        1357,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0014",
+      "name": "Denim Overshirt",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/denim-overshirt/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/denim-overshirt/detail.webp",
+      "crop": [
+        1371,
+        29,
+        1442,
+        194
+      ]
+    },
+    {
+      "articleNumber": "CDS-BRD-0015",
+      "name": "Black Denim Shirt",
+      "brand": "Custom Denim Studio",
+      "front": "/products/catalog-board/custom-denim-studio/black-denim-shirt/front.webp",
+      "detail": "/products/catalog-board/custom-denim-studio/black-denim-shirt/detail.webp",
+      "crop": [
+        1456,
+        29,
+        1527,
+        194
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0001",
+      "name": "Classic Black Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/classic-black-hoodie/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/classic-black-hoodie/detail.webp",
+      "crop": [
+        264,
+        254,
+        335,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0002",
+      "name": "Grey Melange Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/grey-melange-hoodie/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/grey-melange-hoodie/detail.webp",
+      "crop": [
+        349,
+        254,
+        420,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0003",
+      "name": "Navy Blue Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/navy-blue-hoodie/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/navy-blue-hoodie/detail.webp",
+      "crop": [
+        434,
+        254,
+        505,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0004",
+      "name": "Beige Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/beige-hoodie/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/beige-hoodie/detail.webp",
+      "crop": [
+        519,
+        254,
+        591,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0005",
+      "name": "Olive Green Hoodie",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/olive-green-hoodie/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/olive-green-hoodie/detail.webp",
+      "crop": [
+        605,
+        254,
+        676,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0006",
+      "name": "Black Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/black-sweatshirt/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/black-sweatshirt/detail.webp",
+      "crop": [
+        690,
+        254,
+        761,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0007",
+      "name": "Grey Melange Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/grey-melange-sweatshirt/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/grey-melange-sweatshirt/detail.webp",
+      "crop": [
+        775,
+        254,
+        846,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0008",
+      "name": "Navy Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/navy-sweatshirt/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/navy-sweatshirt/detail.webp",
+      "crop": [
+        860,
+        254,
+        931,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0009",
+      "name": "Cream Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/cream-sweatshirt/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/cream-sweatshirt/detail.webp",
+      "crop": [
+        945,
+        254,
+        1016,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0010",
+      "name": "Green Sweatshirt",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/green-sweatshirt/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/green-sweatshirt/detail.webp",
+      "crop": [
+        1030,
+        254,
+        1101,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0011",
+      "name": "Classic White Tee",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/classic-white-tee/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/classic-white-tee/detail.webp",
+      "crop": [
+        1115,
+        254,
+        1186,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0012",
+      "name": "Black Tee",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/black-tee/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/black-tee/detail.webp",
+      "crop": [
+        1200,
+        254,
+        1272,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0013",
+      "name": "Navy Tee",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/navy-tee/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/navy-tee/detail.webp",
+      "crop": [
+        1286,
+        254,
+        1357,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0014",
+      "name": "Beige Tee",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/beige-tee/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/beige-tee/detail.webp",
+      "crop": [
+        1371,
+        254,
+        1442,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-BRD-0015",
+      "name": "Olive Tee",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/olive-tee/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/olive-tee/detail.webp",
+      "crop": [
+        1456,
+        254,
+        1527,
+        420
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0001",
+      "name": "Ribbed Tank Top",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/ribbed-tank-top/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/ribbed-tank-top/detail.webp",
+      "crop": [
+        264,
+        470,
+        335,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0002",
+      "name": "Black Ribbed Tank Top",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/black-ribbed-tank-top/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/black-ribbed-tank-top/detail.webp",
+      "crop": [
+        349,
+        470,
+        420,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0003",
+      "name": "Fitted Long Sleeve Top",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/fitted-long-sleeve-top/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/fitted-long-sleeve-top/detail.webp",
+      "crop": [
+        434,
+        470,
+        505,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0004",
+      "name": "Black Fitted Long Sleeve Top",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/black-fitted-long-sleeve-top/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/black-fitted-long-sleeve-top/detail.webp",
+      "crop": [
+        519,
+        470,
+        591,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0005",
+      "name": "Oversized T-Shirt",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/oversized-t-shirt/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/oversized-t-shirt/detail.webp",
+      "crop": [
+        605,
+        470,
+        676,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0006",
+      "name": "Fine Knit Sweater",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/fine-knit-sweater/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/fine-knit-sweater/detail.webp",
+      "crop": [
+        690,
+        470,
+        761,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0007",
+      "name": "V-Neck Sweater",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/v-neck-sweater/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/v-neck-sweater/detail.webp",
+      "crop": [
+        775,
+        470,
+        846,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0008",
+      "name": "Oversized Sweater",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/oversized-sweater/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/oversized-sweater/detail.webp",
+      "crop": [
+        860,
+        470,
+        931,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0009",
+      "name": "Turtleneck Sweater",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/turtleneck-sweater/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/turtleneck-sweater/detail.webp",
+      "crop": [
+        945,
+        470,
+        1016,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0010",
+      "name": "Neutral Cardigan",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/neutral-cardigan/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/neutral-cardigan/detail.webp",
+      "crop": [
+        1030,
+        470,
+        1101,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0011",
+      "name": "T-Shirt Dress",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/t-shirt-dress/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/t-shirt-dress/detail.webp",
+      "crop": [
+        1115,
+        470,
+        1186,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0012",
+      "name": "Slip Dress",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/slip-dress/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/slip-dress/detail.webp",
+      "crop": [
+        1200,
+        470,
+        1272,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0013",
+      "name": "Wide Leg Pants",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/wide-leg-pants/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/wide-leg-pants/detail.webp",
+      "crop": [
+        1286,
+        470,
+        1357,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0014",
+      "name": "Relaxed Joggers",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/relaxed-joggers/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/relaxed-joggers/detail.webp",
+      "crop": [
+        1371,
+        470,
+        1442,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LTA-WBRD-0015",
+      "name": "Essential Leggings",
+      "brand": "LoomingsThread Apparel",
+      "front": "/products/catalog-board/loomingsthread-apparel/essential-leggings/front.webp",
+      "detail": "/products/catalog-board/loomingsthread-apparel/essential-leggings/detail.webp",
+      "crop": [
+        1456,
+        470,
+        1527,
+        626
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0001",
+      "name": "Baby Romper",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/baby-romper/front.webp",
+      "detail": "/products/catalog-board/letta-luna/baby-romper/detail.webp",
+      "crop": [
+        263,
+        686,
+        322,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0002",
+      "name": "Baby Bodysuit",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/baby-bodysuit/front.webp",
+      "detail": "/products/catalog-board/letta-luna/baby-bodysuit/detail.webp",
+      "crop": [
+        334,
+        686,
+        393,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0003",
+      "name": "Baby Set",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/baby-set/front.webp",
+      "detail": "/products/catalog-board/letta-luna/baby-set/detail.webp",
+      "crop": [
+        405,
+        686,
+        464,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0004",
+      "name": "Baby Dress",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/baby-dress/front.webp",
+      "detail": "/products/catalog-board/letta-luna/baby-dress/detail.webp",
+      "crop": [
+        476,
+        686,
+        535,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0005",
+      "name": "Toddler Set",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/toddler-set/front.webp",
+      "detail": "/products/catalog-board/letta-luna/toddler-set/detail.webp",
+      "crop": [
+        547,
+        686,
+        606,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0006",
+      "name": "Toddler Dress",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/toddler-dress/front.webp",
+      "detail": "/products/catalog-board/letta-luna/toddler-dress/detail.webp",
+      "crop": [
+        618,
+        686,
+        677,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0007",
+      "name": "Toddler Shirt",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/toddler-shirt/front.webp",
+      "detail": "/products/catalog-board/letta-luna/toddler-shirt/detail.webp",
+      "crop": [
+        689,
+        686,
+        748,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0008",
+      "name": "Toddler Shorts",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/toddler-shorts/front.webp",
+      "detail": "/products/catalog-board/letta-luna/toddler-shorts/detail.webp",
+      "crop": [
+        760,
+        686,
+        819,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0009",
+      "name": "Boys T-Shirt",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/boys-t-shirt/front.webp",
+      "detail": "/products/catalog-board/letta-luna/boys-t-shirt/detail.webp",
+      "crop": [
+        831,
+        686,
+        890,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0010",
+      "name": "Boys Shirt",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/boys-shirt/front.webp",
+      "detail": "/products/catalog-board/letta-luna/boys-shirt/detail.webp",
+      "crop": [
+        902,
+        686,
+        960,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0011",
+      "name": "Boys Shorts",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/boys-shorts/front.webp",
+      "detail": "/products/catalog-board/letta-luna/boys-shorts/detail.webp",
+      "crop": [
+        972,
+        686,
+        1031,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0012",
+      "name": "Boys Set",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/boys-set/front.webp",
+      "detail": "/products/catalog-board/letta-luna/boys-set/detail.webp",
+      "crop": [
+        1043,
+        686,
+        1102,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0013",
+      "name": "Boys Pants",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/boys-pants/front.webp",
+      "detail": "/products/catalog-board/letta-luna/boys-pants/detail.webp",
+      "crop": [
+        1114,
+        686,
+        1173,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0014",
+      "name": "Girls Dress",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/girls-dress/front.webp",
+      "detail": "/products/catalog-board/letta-luna/girls-dress/detail.webp",
+      "crop": [
+        1185,
+        686,
+        1244,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0015",
+      "name": "Girls Top",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/girls-top/front.webp",
+      "detail": "/products/catalog-board/letta-luna/girls-top/detail.webp",
+      "crop": [
+        1256,
+        686,
+        1315,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0016",
+      "name": "Girls Skirt",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/girls-skirt/front.webp",
+      "detail": "/products/catalog-board/letta-luna/girls-skirt/detail.webp",
+      "crop": [
+        1327,
+        686,
+        1386,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0017",
+      "name": "Girls Set",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/girls-set/front.webp",
+      "detail": "/products/catalog-board/letta-luna/girls-set/detail.webp",
+      "crop": [
+        1398,
+        686,
+        1457,
+        811
+      ]
+    },
+    {
+      "articleNumber": "LL-BRD-0018",
+      "name": "Girls Leggings",
+      "brand": "Letta & Luna",
+      "front": "/products/catalog-board/letta-luna/girls-leggings/front.webp",
+      "detail": "/products/catalog-board/letta-luna/girls-leggings/detail.webp",
+      "crop": [
+        1469,
+        686,
+        1528,
+        811
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0001",
+      "name": "Leather Wallet",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-wallet/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-wallet/detail.webp",
+      "crop": [
+        267,
+        861,
+        375,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0002",
+      "name": "Leather Card Holder",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-card-holder/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-card-holder/detail.webp",
+      "crop": [
+        395,
+        861,
+        502,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0003",
+      "name": "Leather Belt",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-belt/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-belt/detail.webp",
+      "crop": [
+        522,
+        861,
+        630,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0004",
+      "name": "Leather Duffle Bag",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-duffle-bag/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-duffle-bag/detail.webp",
+      "crop": [
+        650,
+        861,
+        758,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0005",
+      "name": "Leather Backpack",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-backpack/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-backpack/detail.webp",
+      "crop": [
+        778,
+        861,
+        886,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0006",
+      "name": "Leather Tote Bag",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-tote-bag/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-tote-bag/detail.webp",
+      "crop": [
+        906,
+        861,
+        1013,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0007",
+      "name": "Leather Messenger Bag",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-messenger-bag/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-messenger-bag/detail.webp",
+      "crop": [
+        1033,
+        861,
+        1141,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0008",
+      "name": "Leather Briefcase",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-briefcase/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-briefcase/detail.webp",
+      "crop": [
+        1161,
+        861,
+        1269,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0009",
+      "name": "Leather Passport Holder",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-passport-holder/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-passport-holder/detail.webp",
+      "crop": [
+        1289,
+        861,
+        1396,
+        994
+      ]
+    },
+    {
+      "articleNumber": "TLA-BRD-0010",
+      "name": "Leather Key Holder",
+      "brand": "The Leather Atelier",
+      "front": "/products/catalog-board/the-leather-atelier/leather-key-holder/front.webp",
+      "detail": "/products/catalog-board/the-leather-atelier/leather-key-holder/detail.webp",
+      "crop": [
+        1416,
+        861,
+        1524,
+        994
+      ]
+    }
+  ]
+}

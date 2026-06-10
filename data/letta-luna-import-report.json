@@ -1,0 +1,32 @@
+{
+  "generatedAt": "2026-06-05T19:35:41.789Z",
+  "sourceFolder": "D:\\Apparel Projekt\\BiG Bro Pdf Bilder",
+  "productsCreated": 136,
+  "activeProducts": 131,
+  "collectionsCreated": [
+    "Baby",
+    "Toddler",
+    "Girls",
+    "Boys",
+    "Summer",
+    "Winter",
+    "New Arrivals"
+  ],
+  "imagesImported": 190,
+  "manualReviewImagesCopied": 44,
+  "productsRequiringManualReview": [
+    "LL-0023",
+    "LL-0047",
+    "LL-0049",
+    "LL-0054",
+    "LL-0070"
+  ],
+  "productsWithGalleries": 36,
+  "productsWithSingleImage": 100,
+  "unusedFilesForManualReview": [],
+  "notes": [
+    "Leather Atelier products were preserved unchanged.",
+    "Unclear, licensed-looking, detail-only, adult/model mockup, or private-label placeholder files were not activated as customer products.",
+    "Images were copied to data/products/letta-luna and public/products/letta-luna so product pages work from local files."
+  ]
+}

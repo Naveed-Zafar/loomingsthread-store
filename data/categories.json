@@ -1,0 +1,37 @@
+[
+  {
+    "slug": "wallets",
+    "name": "Wallets",
+    "productCount": 135
+  },
+  {
+    "slug": "cardholders",
+    "name": "Cardholders",
+    "productCount": 25
+  },
+  {
+    "slug": "belts",
+    "name": "Belts",
+    "productCount": 4
+  },
+  {
+    "slug": "laptop-bags",
+    "name": "Laptop Bags",
+    "productCount": 13
+  },
+  {
+    "slug": "duffle-bags",
+    "name": "Duffle Bags",
+    "productCount": 1
+  },
+  {
+    "slug": "ladies-bags",
+    "name": "Ladies Bags",
+    "productCount": 13
+  },
+  {
+    "slug": "other",
+    "name": "Other",
+    "productCount": 1
+  }
+]

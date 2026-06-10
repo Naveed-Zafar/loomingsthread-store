@@ -1,0 +1,11 @@
+Brand: The Leather Atelier
+Parent company: Looming Threads
+Primary market: Germany
+Languages: German default, English optional/toggle
+
+Import approach:
+- Listing/category pages are the source of truth.
+- Product detail pages may be blocked and must not stop import.
+- Blocked detail pages are marked with needsManualReview and detailPageBlocked in data/products.json.
+- Description/material use safe placeholders where supplier detail data is unavailable.
+- Images are local only, no external hotlinks in storefront product rendering.

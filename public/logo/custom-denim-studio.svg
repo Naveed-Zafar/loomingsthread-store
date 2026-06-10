@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 180" role="img" aria-labelledby="title">
+  <title id="title">Custom Denim Studio</title>
+  <rect x="18" y="18" width="144" height="144" fill="#0d2747"/>
+  <path d="M48 55h84M48 90h84M48 125h84M62 42v96M118 42v96" stroke="#91a9c2" stroke-width="4"/>
+  <text x="205" y="78" fill="#0d2747" font-family="Arial,sans-serif" font-size="20" font-weight="700" letter-spacing="4">CUSTOM DENIM</text>
+  <text x="205" y="126" fill="#0d2747" font-family="Georgia,serif" font-size="55">Studio</text>
+  <text x="208" y="151" fill="#526d89" font-family="Arial,sans-serif" font-size="13" letter-spacing="4">HERITAGE / QUALITY / MADE FOR YOU</text>
+</svg>
